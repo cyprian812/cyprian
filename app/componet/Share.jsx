@@ -11,7 +11,7 @@ export default function Share() {
           <Image
             className="w-[50px] h-[50px] rounded-full object-cover mr-[10px]"
             src="/assets/team/girl.png"
-            alt="a lady"
+            alt="lady pics"
             width={50}
             height={50}
           />
