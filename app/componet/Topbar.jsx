@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Topbar() {
   return (
-    <header className="w-full h-[65px] font-semibold bg-[#1877f2]">
+    <header className=" w-full h-[65px] font-semibold bg-[#1877f2] sticky top-0 z-50">
       <nav className="flex justify-between h-full w-full px-4 sm:p-6 items-center text-white">
         <Link href="/">
           <h2>TOMY</h2>
